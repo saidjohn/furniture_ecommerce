@@ -25,7 +25,7 @@ The Furniture E-commerce App UI project presents a concept design for a mobile a
 
 - Flutter SDK
 - Dart programming language
-- IDE or code editor of your choice (e.g., Visual Studio Code, Android Studio)
+- IDE Visual Studio Code, Android Studio
 
 ## Dependencies
 
