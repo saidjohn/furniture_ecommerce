@@ -1,0 +1,7 @@
+# l10n.yaml
+arb-dir: lib/services/l10n
+template-arb-file: app_en.arb
+output-localization-file: app_localizations.dart
+output-class: AppLocalizations
+nullable-getter: false
+synthetic-package: false

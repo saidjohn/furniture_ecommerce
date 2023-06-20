@@ -1,0 +1,73 @@
+name: furniture_app
+description: PDP Flutter Bootcamp B28
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+  flutter_svg: ^2.0.6
+  flutter_rating_bar: ^4.0.1
+  intl: ^0.18.0
+  flutter_localizations:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+  generate: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/images/images_product_armchair/
+    - assets/images/images_product_bed/
+    - assets/images/images_product_chair/
+    - assets/images/lamp_images/
+    - assets/images/images_product_table/
+
+  fonts:
+    - family: Gelasio
+      fonts:
+        - asset: assets/fonts/gelasio/Gelasio-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/gelasio/Gelasio-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/gelasio/Gelasio-Bold.ttf
+          weight: 700
+
+
+    - family: NunitoSans
+      fonts:
+        - asset: assets/fonts/nunito_sans/NunitoSans_10pt-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/nunito_sans/NunitoSans_10pt-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/nunito_sans/NunitoSans_10pt-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/nunito_sans/NunitoSans_10pt-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/nunito_sans/NunitoSans_10pt-Light.ttf
+          weight: 300
+
+
+    - family: MerriWeather
+      fonts:
+        - asset: assets/fonts/merriweather/Merriweather-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/merriweather/Merriweather-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/merriweather/Merriweather-Light.ttf
+          weight: 300
