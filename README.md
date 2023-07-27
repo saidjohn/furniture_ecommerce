@@ -7,6 +7,9 @@ Welcome to the Furniture E-commerce App UI project! This project showcases a use
 ![image](https://github.com/saidjohn/furniture_ecommerce/assets/120701354/996a1187-d498-48dd-8220-c2c359bad464)
 
 
+https://github.com/saidjohn/furniture_ecommerce/assets/120701354/0032a554-3f52-4090-9627-b91166fc7b81
+
+
 ## Description
 
 The Furniture E-commerce App UI project presents a concept design for a mobile application that allows users to browse and purchase furniture items. The UI design aims to provide a visually appealing and user-friendly interface, enabling users to explore furniture collections, view product details, add items to the cart, and proceed with the checkout process.
